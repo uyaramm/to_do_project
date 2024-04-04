@@ -13,7 +13,7 @@ Tasks should be stored locally (can be in localStorage) to persist between page 
 ## How to run this app
 
 1. Clone project
-2. Navegate to the terminal to install the required libraries specified in the package.json file
+2. Navigate to the terminal to install the required libraries specified in the package.json file
 npm install
 3. Run the project:
 npm start
@@ -42,6 +42,6 @@ npm install @mui/icons-material
 
 #### Tests
 
-Still in the learning process of writing testes in React
+Still in the learning process of writing tests in React
 
 
