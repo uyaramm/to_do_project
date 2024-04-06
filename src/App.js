@@ -20,9 +20,9 @@ function App() {
   //array
   const [tasks, setTasks] = useState(storedTasks);
   //task variable
-  const [taskDescription, setTaskDescription] = useState([""]);
+  const [taskDescription, setTaskDescription] = useState("");
   //search task
-  const [searchDescription, setSearchDescription] = useState([]);
+  const [searchDescription, setSearchDescription] = useState("");
   //alertError
   const [showError, setShowError] = useState(false);
   //alertCheck
